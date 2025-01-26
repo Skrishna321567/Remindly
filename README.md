@@ -25,7 +25,7 @@ Provide a user-friendly platform for students to track and manage homework and a
  Install required libraries, 
  pip3 install Kivy
  # Create remindly
- The code used is 
+ The code used is :
 import kivy
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
@@ -92,4 +92,34 @@ class ReminderAppApp(App):
 
 if __name__ == '__main__':
     ReminderAppApp().run()
+
+# Documentation
+Project Overview
+- Project Name: Remindly
+- Creation Time: 10hour
+- Team Members: Swathi Krishna P S, Sreeva V G
+
+Features Implemented
+1. User-friendly interface for creating reminders
+2. Ability to set notifications for upcoming reminders
+3. Reminders list for viewing and managing reminders
+
+Technical Details
+1. Programming Language: Python
+2. Framework: Kivy
+
+
+Challenges Faced
+1. Time constraints
+2. Technical difficulties with Kivy
+
+Lessons Learned
+1. Learn to app development as a beginner 
+2. Prioritize features and focus on core functionality
+3. Research and seek help for technical difficulties
+
+Future Improvements
+1. Add recurring reminders feature
+2. Integrate with Google Calendar
+3. Improve user interface and user experience
 
