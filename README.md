@@ -54,6 +54,9 @@ Future Improvements
 2. Integrate with Google Calendar
 3. Improve user interface and user experience
 ![Screenshot (2)](https://github.com/user-attachments/assets/b99339b4-41a4-4676-b493-585682fafc77)
+![Screenshot (4)](https://github.com/user-attachments/assets/a038195a-e247-4ddc-a2c0-c1780ace0382)
+![Screenshot (3)](https://github.com/user-attachments/assets/74be9229-0371-4732-b108-9f9a9e3cfa64)
+
 # Build photos
 Team
 ![IMG_20250126_081603994](https://github.com/user-attachments/assets/06c5f793-45d0-4d37-8f6c-f3c3d597d697)
