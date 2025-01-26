@@ -6,7 +6,7 @@ SNS
 Swathi Krishna P S,
 Sreeva V G
 # Project description
-We are trying to create a reminder app which reminds about hoeworks to students.
+We are trying to create a reminder app which reminds about homeworks to students.
 # The Problem statement
 Many students struggle to keep track of their homework assignments, leading to missed deadlines, poor grades, and increased stress. Existing solutions like paper planners, digital calendars, or reminders from teachers often prove inadequate, as they can be easily forgotten, lost, or overlooked.
 # The solution
