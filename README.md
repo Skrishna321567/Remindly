@@ -2,8 +2,8 @@
 homework remainder app
 # Team name
 SNS
-# team members
-Swathi Krishna P S
+# Team members
+Swathi Krishna P S,
 Sreeva V G
 # Project description
 We are trying to create a reminder app which reminds about hoeworks to students.
@@ -16,9 +16,9 @@ Provide a user-friendly platform for students to track and manage homework and a
  Help students develop essential time management and organization skills.
 # Technical details
  Frontend 
- user interface: design a user friendly UI using a kivy
- User interface components : Use widgets like text input, buttons, and labels to create UI
- Layout management : Use layout managers like boxlayout and gridlayout to arrange UI components
+ user interface: design a user friendly UI using a kivy.
+ User interface components : Use widgets like text input, buttons, and labels to create UI.
+ Layout management : Use layout managers like boxlayout and gridlayout to arrange UI components.
  Backend
  Programming language : Python
  
